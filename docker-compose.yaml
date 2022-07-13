@@ -1,10 +1,10 @@
 services:
   pg-db:
-    image: postgres:14
+    image: postgres:13
     environment:
       - POSTGRES_USER=jkop
       - POSTGRES_PASSWORD=root
-      - POSTGRES_DB=baltimore
+      - POSTGRES_DB=baltimoreDB
     volumes:
       - "./baltimore_crime_data:/var/lib/postgresql/data:rw"
     ports:
