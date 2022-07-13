@@ -1,6 +1,6 @@
 # Docker, Postgres & PGAdmin setup
 
-# 1. Docker Compose
+### 1. Docker Compose
 Define and run multi-container applications one file
 
 Set up configurations for environmental variables for running multiple docker postresql and pgadmin images locally
@@ -11,6 +11,7 @@ Set up configurations for environmental variables for running multiple docker po
 
 * create a docker-compose.yaml file and enter the configuration below:
 
+```
 services:
   pg-db:
     image: postgres:15
@@ -31,13 +32,14 @@ services:
       - "./data_pgadmin:/var/lib/pgadmin"
     ports:
       - "8080:80"
+  ```
 
-# 2. Run Docker Compose
+### 2. Run Docker Compose
 Open the window terminal and run *docker-compose up* to run the yaml to create both postgres database and pgAdmin.
 
 * Enter *localhost:8080* on the browser and input the pgAdmin useranme/email and password. 
 
-# 3. Download & Load Dataset
+### 3. Download & Load Dataset
 The dataset is from https://data.world/data-society/city-of-baltimore-crime-data
 
 * Open jupyter notebook from the Baltimore folder
