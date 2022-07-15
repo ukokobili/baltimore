@@ -12,7 +12,7 @@
 Baltimore is the most populous city in the U.S. state of Maryland, fourth most populous city in the Mid-Atlantic, as well as the 30th most populous city in the United States, with a population of 585,708 in 2020. Baltimore has a higher crime rate than similarly sized metro areas and the Baltimore's level of violent crime is much higher than the national average.
 
 # Project Description
-The project is related to Crimes committed in Baltimore and to ask important questions as The total number recorded? Number of crimes committed in each year? Where are the most crimes committed? Types of crimes committed? What type of weapons were used to committed these crimes? and What time were these crimes committed. The provided data will help discover the answers to these questions and more.
+The project is related to crimes committed in Baltimore and to ask important questions such as The total number recorded? Number of crimes committed in each year? Where are the most crimes committed? Types of crimes committed? What type of weapons were used to committed these crimes? and What time were these crimes committed. The provided data will help discover the answers to these questions and more.
 
 The key goals of the project are:
 
@@ -20,7 +20,7 @@ The key goals of the project are:
 * build analytical dashboard that will make it easy to discern the trends and digest the insights.
 
 # Dataset Description
-The City of Baltimore Crime Data can be found here on the Data World website. It contains information about the crimes committed in Baltimore, Maryland, US.
+The City of Baltimore Crime Data can be found [here](https://data.world/data-society/city-of-baltimore-crime-data) on the Data World website. It contains information about the crimes committed in Baltimore, Maryland, US.
 
 The dataset includes the following columns:
 * crimedate  
