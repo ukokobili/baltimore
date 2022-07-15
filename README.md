@@ -58,8 +58,8 @@ You can find the detailed information on the diagram below:
 This tutorial contains the instructions you need to follow to reproduce the project results and can be found here.
 
 # Pre-requisites
-* Docker
-* Anaconda
-* VScode
+* [Docker](https://www.docker.com/products/docker-desktop/))
+* [Anaconda](https://www.anaconda.com/products/distribution)
+* [VSCode](https://code.visualstudio.com/Download)
 
 
