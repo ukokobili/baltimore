@@ -1,12 +1,12 @@
 # City of Baltimore Crime Data Ingestion Pipeline & Analysis from 2011-2016
 * Baltimore Crime Data Ingestion & Analysis
-  * [Introduction](#-introduction)
-  * [Project Description](#-project-description)
-  * [Dataset Description](#-data-description)
-  * [Technologies](#-technologies)
-  * [Project Architecture](#-project-architecture)
-  * [Tutorial](#-tutorial)
-  * [Pre-requisites](#-pre-requisites)
+  * [Introduction](#introduction)
+  * [Project Description](#project-description)
+  * [Dataset Description](#data-description)
+  * [Technologies](#technologies)
+  * [Project Architecture](#project-architecture]
+  * [Tutorial](#tutorial)
+  * [Pre-requisites](#pre-requisites)
 
 # Introduction
 Baltimore is the most populous city in the U.S. state of Maryland, fourth most populous city in the Mid-Atlantic, as well as the 30th most populous city in the United States, with a population of 585,708 in 2020. Baltimore has a higher crime rate than similarly sized metro areas and the Baltimore's level of violent crime is much higher than the national average.
