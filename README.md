@@ -4,7 +4,7 @@
   * [Project Description](#-project-description)
   * [Dataset Description](#-data-description)
   * [Technologies](#-technologies)
-  * [Project Architecture](#-project-architecture}
+  * [Project Architecture](#-project-architecture)
   * [Tutorial](#-tutorial)
   * [Pre-requisites](#-pre-requisites)
 
