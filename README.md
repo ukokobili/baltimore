@@ -52,6 +52,7 @@ The end-to-end data pipeline includes the next steps:
 * dashboard creating.
 
 You can find the detailed information on the diagram below:
+![](/main/images/Picture1.png)
 
 
 # Tutorial
