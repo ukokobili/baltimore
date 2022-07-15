@@ -1,6 +1,6 @@
 # City of Baltimore Crime Data Ingestion Pipeline & Analysis from 2011-2016
 * Baltimore Crime Data Ingestion & Analysis
-  * [Introduction](# Introduction)
+  * [Introduction](#-introduction)
   * Project Description
   * Dataset Description
   * Technologies
