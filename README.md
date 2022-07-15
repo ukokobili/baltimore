@@ -1,6 +1,6 @@
 # City of Baltimore Crime Data Ingestion Pipeline & Analysis from 2011-2016
 * Baltimore Crime Data Ingestion & Analysis
-  * Introduction
+  * [Introduction](# Introduction)
   * Project Description
   * Dataset Description
   * Technologies
@@ -58,7 +58,7 @@ You can find the detailed information on the diagram below:
 This tutorial contains the instructions you need to follow to reproduce the project results and can be found here.
 
 # Pre-requisites
-* [Docker](https://www.docker.com/products/docker-desktop/))
+* [Docker](https://www.docker.com/products/docker-desktop/)
 * [Anaconda](https://www.anaconda.com/products/distribution)
 * [VSCode](https://code.visualstudio.com/Download)
 
